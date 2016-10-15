@@ -19,13 +19,13 @@ To install the package, add the row below to your composer.json file:
 
 To add CFilms:
 
-$films = new rolb\STHLMFilm\CFilms("<apikey>", "<date>");
+$films = new rolb\STHLMFilm\CFilms("apikey", "date");
 
 To get schedule for a certain date:
-$html = $films->program("<apikey>", "<date>");
+$html = $films->program("apikey", "date");
 
-To get individual film details:
-$html = $films->filmInfo($film);
+To get individual film details ("filmid" must be initially fetched with $films->program):
+$html = $films->filmInfo("filmid");
 
 
 How to use
