@@ -22,9 +22,12 @@ To add CFilms:
 $films = new rolb\STHLMFilm\CFilms("apikey", "date");
 
 To get schedule for a certain date:
+
 $html = $films->program("apikey", "date");
 
+
 To get individual film details ("filmid" must be initially fetched with $films->program):
+
 $html = $films->filmInfo("filmid");
 
 
