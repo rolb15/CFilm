@@ -1,0 +1,21 @@
+{
+    "name": "rolb/cfilm",
+    "type": "library",
+    "description": "Classes for displaying Sthlm Filmfestival programmes",
+    "keywords": ["module", "html", "micro", "education"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Roland Larsson",
+            "email": "rolb15@bth.student.se",
+            "role": "Developer"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.4"
+    },
+    "autoload": {
+        "psr-4": { "rolb\\": "src/" }
+    }
+}
