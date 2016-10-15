@@ -2,7 +2,7 @@
 
 Introduction
 
-CFilm is a class for displaying screening schedules and details for the scheduled films at Stockholm Filmfestival. 
+CFilms is a class for displaying screening schedules and details for the scheduled films at Stockholm Filmfestival. 
 It's main purpose is to be used together with ANAX-MVC, but can also be used on its own.
 
 License
@@ -17,9 +17,9 @@ To install the package, add the row below to your composer.json file:
    "rolb/sfilm": "dev-master"
 }
 
-To add CFilm:
+To add CFilms:
 
-$weather = new rolb\STHLMFilm\CFilms("<apikey>", "<date>");
+$films = new rolb\STHLMFilm\CFilms("<apikey>", "<date>");
 
 To get schedule for a certain date:
 $html = $films->program("<apikey>", "<date>");
