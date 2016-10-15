@@ -1,6 +1,6 @@
 <?php
 
-namespace rolb\STHLMFilm;
+namespace rolb\CFilm;
 
 class CFilms
 {
