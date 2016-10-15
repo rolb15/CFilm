@@ -31,8 +31,7 @@ To get individual film details ("filmid" must be initially fetched with $films->
 $html = $films->filmInfo("filmid");
 
 
-How to use
 
-A APIkey from Stockholm Filmfestival is needed. 
+A APIkey from Stockholm Filmfestival is needed and is sent out by email!
 
 
