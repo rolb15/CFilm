@@ -6,4 +6,4 @@ filter:
 
 tools:
     external_code_coverage:
-timeout: 300
+        timeout: 300
