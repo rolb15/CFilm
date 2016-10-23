@@ -1,4 +1,6 @@
 # Cfilms
+[![Build Status](https://travis-ci.org/rolb15/CFilm.svg?branch=master)](https://travis-ci.org/rolb15/CFilm)
+
 
 Introduction
 
