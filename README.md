@@ -1,6 +1,7 @@
 # Cfilms
 [![Build Status](https://travis-ci.org/rolb15/CFilm.svg?branch=master)](https://travis-ci.org/rolb15/CFilm)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/rolb15/CFilm/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/rolb15/CFilm/?branch=master)
+[![Code Coverage](https://scrutinizer-ci.com/g/rolb15/CFilm/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/rolb15/CFilm/?branch=master)
 
 Introduction
 
