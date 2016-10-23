@@ -19,7 +19,7 @@ To install the package, add the row below to your composer.json file:
 
 To add CFilms:
 
-$films = new rolb\STHLMFilm\CFilms("apikey", "date");
+$films = new rolb\CFilm\CFilms("apikey", "date");
 
 To get schedule for a certain date:
 
